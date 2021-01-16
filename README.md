@@ -1,8 +1,11 @@
 # gitrules
 
-git rm -r --cached .
-git add .
-git commit -m ".gitignore is now working"
+1) git rm -r --cached .
+2) git add .
+3) git commit -m ".gitignore is now working"
+
+git clone url --single-branch --(branch name)branch development 
+git clone https://github.com/bKash-developer/pgw-merchant-backend-php --single-branch --branch development 
 
 #laravel project clone
 
