@@ -18,4 +18,14 @@ git clone https://github.com/bKash-developer/pgw-merchant-backend-php --single-b
 Go to localhost:8000
 
 
+vue reprojectory run
+
+Clone the repository with git clone
+Copy .env.example file to .env and edit database credentials there
+Run composer install
+Run php artisan key:generate
+Run php artisan migrate
+Run npm install
+Run npm run dev
+
 
