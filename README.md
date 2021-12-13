@@ -41,6 +41,17 @@ Pushes the changes in your local repository up to the remote repository you spec
 git clone url --single-branch --(branch name)branch development 
 git clone https://github.com/bKash-developer/pgw-merchant-backend-php --single-branch --branch development 
 
+  
+// Work with git branch
+  
+git checkout -b branch1  // git create new branch name branch1
+  
+git branch --list // check all git branch 
+  
+git checkout branch1 // go to branch name branch1
+
+git push --set-upstream origin branch1 // branch1 e upload kora 
+  
 #laravel project clone
 
 1) Clone your project : git clone url
