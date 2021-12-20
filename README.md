@@ -1,5 +1,13 @@
 # gitrules
 
+1)Git notun branch er update check kore, notun branch e Nazmul branch marge kora
+
+1.1) git checkout dev (dev branch e jaowa)
+1.2) git pull ( dev branch e update kono file thakle namabe)
+1.3) git merge nazmul (amar code gulo dev branch er locally niea ashbe)
+1.4) git push(amar code gulo live e gelo)
+
+
 #Adding an existing project to GitHub using the command line
 
 Simple steps to add existing project to Github.
