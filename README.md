@@ -1,5 +1,9 @@
 # gitrules
 
+Je kono commit e ferot jao a
+
+git reset --hard 82c38653cabbe28405b4a1b1a0f15dcdff7ac8fd  [commit_id]
+
 1)Git notun branch er update check kore, notun branch e Nazmul branch marge kora
 
 1.1) git checkout dev (dev branch e jaowa)
