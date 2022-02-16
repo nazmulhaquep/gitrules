@@ -1,5 +1,11 @@
 # gitrules
 
+Pull code from any branch
+<!--amar branch e theke rezaul branch er update code amar branch e namano  -->
+<!--amar branch e thekei  -->
+1) git pull origin rezaul
+2) git push
+
 Je kono commit e ferot jao a
 
 git reset --hard 82c38653cabbe28405b4a1b1a0f15dcdff7ac8fd  [commit_id]
