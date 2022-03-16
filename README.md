@@ -1,7 +1,7 @@
 # Easy way git keep update
 1) Commit in my branch [nazmul branch]
-2) git checkout dev [dev branch]
-3) git pull
+2) git checkout dev [dev branch a shift holam]
+3) git pull [dev branch e update thakle namalam]
 4) git merge nazmul [merge nazmul with dev, now both branch is uptodate]
 
 
