@@ -1,3 +1,10 @@
+# Easy way git keep update
+1) Commit in my branch [nazmul branch]
+2) git checkout dev [dev branch]
+3) git pull
+4) git merge nazmul [merge nazmul with dev, now both branch is uptodate]
+
+
 # gitrules
 
 Pull code from any branch
