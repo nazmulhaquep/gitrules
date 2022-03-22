@@ -3,6 +3,7 @@
 2) git checkout dev [dev branch a shift holam]
 3) git pull [dev branch e update thakle namalam]
 4) git merge nazmul [merge nazmul with dev, now both branch is uptodate]
+5) git push
 
 
 # gitrules
