@@ -5,6 +5,16 @@
 4) git merge nazmul [merge nazmul with dev, now both branch is uptodate]
 5) git push
 
+#Freash file push in a git project
+
+1) go to new code & cmd line : start .
+2) clone existing project
+3) checkout the branch you want to take your code
+4) copy .init, git ignore and gitattributes and paste in the new code
+5) git fetch --all
+6) git commit
+7) git push
+
 
 # gitrules
 
