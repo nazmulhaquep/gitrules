@@ -7,13 +7,12 @@
 
 #Freash file push in a git project
 
-1) go to new code & cmd line : start .
-2) clone existing project
-3) checkout the branch you want to take your code
-4) copy .init, git ignore and gitattributes and paste in the new code
-5) git fetch --all
-6) git commit
-7) git push
+1) clone existing project
+2) checkout the branch you want to take your code
+3) copy .init, git ignore and gitattributes and paste in the new code what you want to push at git repo
+4) git fetch --all
+5) git commit
+6) git push
 
 
 # gitrules
