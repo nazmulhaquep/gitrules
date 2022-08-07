@@ -85,7 +85,7 @@ git branch --list // check all git branch
   
 git checkout branch1 // go to branch name branch1
 
-git push --set-upstream origin branch1 // branch1 e upload kora 
+git push --set-upstream origin branch1 // branch1 e upload kora [from last checkout branch]
   
 #laravel project clone
 
