@@ -1,3 +1,10 @@
+#New git branch create & upload code from another branch
+
+1) git branch nazmul[code exist in master branch]
+2) git checkout nazmul
+3) git pull origin master
+4) git push
+
 # Easy way git keep update
 1) Commit in my branch [nazmul branch]
 2) git checkout dev [dev branch a shift holam]
