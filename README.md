@@ -33,7 +33,8 @@ Git command
 
 
 8) Git Branch Delete
-* git branch -D test [can’t delete active branch so need to checkout from test branch]
+* git branch -D test [can’t delete active branch so need to checkout from test branch. It delete test branch from locally]
+* git push origin :test [delete test branch from remotely]
 
 
 9) Git Stash
