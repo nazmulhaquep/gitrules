@@ -1,10 +1,10 @@
 Git command
 
-1) Create New Branch
-git checkout -b nazmul
+1) Create New Branch 
+ git checkout -b nazmul
 
 2) Git Merge [rebase same purpose serve]
-git merge nazmul
+ git merge nazmul
 
 3) Git Rebase
 git rebase nazmul
@@ -48,12 +48,6 @@ You can choose one commit or multiple commit to brought into your branch[]
 0.2) then checkout my branch
 git cherry-pick 787887989[commit_id]
 git cherry-pick 787887989 98888 5657687 [for multiple commit_id]
-
-
-
-
-
-
 
 
 
