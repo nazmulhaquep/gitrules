@@ -1,3 +1,63 @@
+Git command
+
+1) Create New Branch
+git checkout -b nazmul
+
+2) Git Merge [rebase same purpose serve]
+git merge nazmul
+
+3) Git Rebase
+git rebase nazmul
+
+4) Git Fetch/ Pull
+git fetch
+git fetch nazmul [branch name]
+git fetch - -all
+
+5) Git Reset
+git reset - -hard 82c38653cabbe28405b4a1b1a0f15dcdff7ac8fd [commit_id]
+
+6) Git Clone
+git clone url
+
+7) Git Branch Rename
+git branch [check current active branch]
+git branch -m nazmulh [this command make nazmul branch as nazmulh]
+
+8) Git Branch Delete
+git branch -D test [can’t delete active branch so need to checkout from test branch]
+
+9) Git Stash
+if you just need to checkout in a different branch and you are not ready to commit for the changes you currently have.
+or If you discover that you are in a wrong branch and your changes need to be in different branch.
+Creating a stash save uncommitted changes. Checkout your current branch and git stash pop to save the stash in your current/own branch.
+git stash
+then checkout in your current branch
+git stash pop
+git add .
+git commit -m "commented code removed"
+git push
+
+10) Git Cherry pick
+
+Bring in changes from a specific commit [from any branch by commit id]
+If someone fixed a bug that you have in your branch and you want to bring just in one commit but not the whole branch.
+You can choose one commit or multiple commit to brought into your branch[]
+
+0.1) Checkout this branch find all the commit [git log] 
+0.2) then checkout my branch
+git cherry-pick 787887989[commit_id]
+git cherry-pick 787887989 98888 5657687 [for multiple commit_id]
+
+
+
+
+
+
+
+
+
+
 #New git branch create & upload code from another branch
 
 1) git branch nazmul[code exist in master branch]
