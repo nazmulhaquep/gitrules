@@ -1,9 +1,12 @@
 Git command
 
-
 1) Create New Branch
 * git checkout -b nazmul
 
+1.1) Git remote directory clone
+* git init
+* git remote add origin https://github.com/nazmulhaquep/LaravelAdvancePractice.git
+* git pull origin main
 
 2) Git Merge [rebase same purpose serve]
 * git merge nazmul
