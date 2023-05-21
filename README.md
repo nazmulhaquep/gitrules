@@ -1,3 +1,12 @@
+SSH Key generate
+1) cd ~/.ssh && ssh-keygen
+2) Delete all files from the below directory
+C:\Users\API\.ssh
+3) open the below file from the above directory. you get ssh key in this file.
+id_rsa.pub
+4) Add ssh key in the below link
+https://github.com/settings/keys
+
 Git command
 
 1) Create New Branch
