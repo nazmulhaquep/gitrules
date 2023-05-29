@@ -8,6 +8,11 @@ id_rsa.pub
 https://github.com/settings/keys
 
 Git command
+0.1) Git pull
+Amar branch e active theke 
+git pull origin main //tahole main branch e locally main branch er code nambe
+
+git push // kaj sesh e aamar branch e add, commit r push korbo
 
 1) Create New Branch
 * git checkout -b nazmul
